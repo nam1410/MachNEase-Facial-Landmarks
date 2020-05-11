@@ -1,4 +1,4 @@
-# MachNEase
+# MachNEase-Facial-Landmarks
 A small ray of interpretation of Machine Learning 
 
 **FACIAL LANDMARKS:**
