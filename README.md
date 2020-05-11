@@ -12,7 +12,7 @@ Facial Landmarks localize and represent salient areas / facial entities such as 
 **Areas of Application :** Head Pose Estimation, Emotion Recognition, Face Swapping, Shape prediction problem etc
 
 **To download the dependency file : shape_predictor_68_face_landmarks.dat, refer the following link**<br/> https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
-Make sure to save a copy of the file in your present working directory.
+</br>Make sure to save a copy of the file in your present working directory.
 
 ## How to Run the file ?? 
 Go to the terminal and paste the following command:</br>
