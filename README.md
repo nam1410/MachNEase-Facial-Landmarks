@@ -2,7 +2,7 @@
 A small ray of interpretation of Machine Learning 
 
 **FACIAL LANDMARKS:**
-Facial Landmarks localize and represent salient areas / facial entities such as : eyebrows, eyes, nose, mouth, jawline. 
+Facial Landmarks localize and represent salient areas / facial entities such as : eyebrows, eyes, nose, mouth,and jawline. 
 
 **Detection** of Facial Landmarks involves 2 major steps:
 
